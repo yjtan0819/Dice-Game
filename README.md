@@ -1,9 +1,4 @@
-<h1 align="center">Welcome to Dice Game 👋</h1>
-<p>
-  <a href="https://github.com/yjtan0819/Dice-Game/blob/main/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
-</p>
+<h1 align="center">Dice Game</h1>
 
 > Dice Game To Decide A Winner Between Two People
 
@@ -23,11 +18,10 @@
 
 👤 **Yi Jia Tan**
 
-* Website: https://yjtan0819.github.io/Personal-Website/
+* Website: https://yjtan0819.github.io/personal-website/
 * Github: [@yjtan0819](https://github.com/yjtan0819)
 * LinkedIn: [@yijia-tan](https://linkedin.com/in/yijia-tan)
 
 ## 📝 License
 
 Copyright © 2023 [Yi Jia Tan](https://github.com/yjtan0819).<br />
-This project is [MIT](https://github.com/yjtan0819/Dice-Game/blob/main/LICENSE) licensed.
